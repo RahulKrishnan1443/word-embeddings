@@ -2,8 +2,8 @@
 import numpy as np
 
 
-"""from src.word2vec import *
-from src.build_data import *"""
+from src.word2vec import *
+from src.build_data import *
 
 tokens = ['A', 'ABQ', 'C', 'D']
 vocab = {'A': [1, 2, 3, 4], 'B': [100, 200, 300, 400], 'Q':[.1, .2, .3, .4]}
