@@ -1,0 +1,14 @@
+bn/cnn/00/cnn_0009   0    4          the     DT     (NP(NP*    -    -   -   -       *   (ARG2*       (0|(0
+bn/cnn/00/cnn_0009   0    5          big     JJ           *    -    -   -   -       *        *           -
+bn/cnn/00/cnn_0009   0    6      winners    NNS           *)   -    -   -   -       *        *           0)
+bn/cnn/00/cnn_0009   0    7           at     IN        (PP*    -    -   -   -       *        *           -
+bn/cnn/00/cnn_0009   0    8          the     DT     (NP(NP*    -    -   -   -   (ORG*        *       (0|(0
+bn/cnn/00/cnn_0009   0    9      Country    NNP           *    -    -   -   -       *        *           -
+bn/cnn/00/cnn_0009   0   10        Music    NNP       (NML*    -    -   -   -       *        *           -
+bn/cnn/00/cnn_0009   0   11       Awards   NNPS          *))   -    -   -   -       *)       *           0)
+bn/cnn/00/cnn_0009   0   12           in     IN        (PP*    -    -   -   -       *        *           -
+bn/cnn/00/cnn_0009   0   13    Nashville    NNP   (NP*))))))   -    -   -   -    (GPE)       *)   (0)|0)|0)
+bn/cnn/00/cnn_0009   0   14            .      .          *))   -    -   -   -       *        *           -
+
+
+
