@@ -1,0 +1,15 @@
+bn/mnb/00/mnb_0009   0    0       They   PRP   (TOP(S(NP*)        -    -   -   -   *    (ARG0*)       *      (0)
+bn/mnb/00/mnb_0009   0    1    confirm   VBP         (VP*    confirm  01   1   -   *       (V*)       *       -
+bn/mnb/00/mnb_0009   0    2        the    DT  (SBAR(S(NP*         -    -   -   -   *         *   (ARG0*      (0
+bn/mnb/00/mnb_0009   0    3      pilot    NN            *)     pilot   -   2   -   *         *        *)      0)
+bn/mnb/00/mnb_0009   0    4       made   VBD         (VP*       make  04   1   -   *         *      (V*)      -
+bn/mnb/00/mnb_0009   0    5          a    DT         (NP*         -    -   -   -   *         *   (ARG1*   (0|(0
+bn/mnb/00/mnb_0009   0    6      wrong    JJ            *         -    -   -   -   *         *        *       -
+bn/mnb/00/mnb_0009   0    7       turn    NN            *)      turn   -   4   -   *         *        *)      0)
+bn/mnb/00/mnb_0009   0    8          ,     ,            *         -    -   -   -   *         *        *       -
+bn/mnb/00/mnb_0009   0    9     simply    RB    (PP(ADVP*)        -    -   -   -   *         *        *       -
+bn/mnb/00/mnb_0009   0   10       down    IN            *         -    -   -   -   *         *        *       -
+bn/mnb/00/mnb_0009   0   11        the    DT         (NP*         -    -   -   -   *         *        *      (0
+bn/mnb/00/mnb_0009   0   12      wrong    JJ            *         -    -   -   -   *         *        *       -
+bn/mnb/00/mnb_0009   0   13     runway    NN       *))))))        -    -   -   -   *         *        *    0)|0)
+bn/mnb/00/mnb_0009   0   14          .     .           *))        -    -   -   -   *         *        *       -
